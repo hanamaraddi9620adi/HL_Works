@@ -8,7 +8,7 @@ class Parent
 
 	static int PAmount = 100000;  			 //Static/Class variable
 
-	int PAmount = 100000;				//Instance varaible , then they are accessabl everywhere 
+	//int PAmount = 100000;				//Instance varaible , then they are accessabl everywhere 
 	
 	Parent()
 	{
